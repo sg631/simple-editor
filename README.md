@@ -7,4 +7,4 @@ This project was started for our Inovation Project for First Lego League robotic
 
 <b>Goal:</b> Create a music and programming editor that is not too basic, but isn't too technical either.
 # Documentation
-Refer to DOCUMENTATION.md for more info
+Refer to [DOCUMENTATION.md](https://github.com/sg631/simple-editor/blob/main/DOCUMENTATION.md) for more info
