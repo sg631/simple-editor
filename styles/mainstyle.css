@@ -17,6 +17,6 @@ body {
 }
 #navbar {
   text-align: center;
-  margin: 20px;
   background-color: rgb(75, 75, 75);
+  position: fixed;
 }
