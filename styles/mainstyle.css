@@ -18,7 +18,8 @@ body {
 #navbar {
   text-align: center;
   background-color: rgb(75, 75, 75);
-  position: fixed;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
   user-select: none;
