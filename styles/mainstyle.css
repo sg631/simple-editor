@@ -1,3 +1,10 @@
 html {
   font-family: sans-serif;
 }
+.navoption {
+  display: inline;
+}
+.active_navoption {
+  display: inline;
+  text-decoration: blue 5px solid underline;
+}
