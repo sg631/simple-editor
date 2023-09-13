@@ -1,6 +1,9 @@
 html {
   font-family: sans-serif;
+  color:white;
 }
+body {
+  background-color: rgb(40, 40, 40);
 .navoption {
   display: inline;
   margin: 20px;
@@ -15,4 +18,5 @@ html {
 #navbar {
   text-align: center;
   margin: 20px;
+  background-color: rgb(75, 75, 75);
 }
