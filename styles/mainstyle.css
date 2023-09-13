@@ -4,12 +4,15 @@ html {
 .navoption {
   display: inline;
   margin: 20px;
+  text-align: center;
 }
 .active_navoption {
   display: inline;
   text-decoration: blue 5px solid underline;
   margin: 20px;
+  text-align: center;
 }
 #navbar {
   text-align: center;
+  margin: 20px;
 }
