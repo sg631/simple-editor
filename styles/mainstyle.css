@@ -10,6 +10,8 @@ body {
   text-align: center;
   font-family:9px;
   cursor:pointer;
+  text-decoration: none;
+  color:white;
 }
 .active_navoption {
   display: inline;
@@ -18,6 +20,7 @@ body {
   text-align: center;
   font-family:9px;
   cursor: pointer;
+  color:white;
 }
 #navbar {
   text-align: center;
