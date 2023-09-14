@@ -9,6 +9,7 @@ body {
   margin: 20px;
   text-align: center;
   font-family:9px;
+  cursor:pointer;
 }
 .active_navoption {
   display: inline;
@@ -16,6 +17,7 @@ body {
   margin: 20px;
   text-align: center;
   font-family:9px;
+  cursor: pointer;
 }
 #navbar {
   text-align: center;
@@ -25,6 +27,6 @@ body {
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
   user-select: none;
-  height:30px;
-  display:block
+  height: 30px;
+  display: block;
 }
