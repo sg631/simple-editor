@@ -13,7 +13,7 @@ Refer to [DOCUMENTATION.md](docs/DOCUMENTATION.md) for any info
 # Changelog
 ### v0.1.0
 #### Features
-* Coming soon (still in basic development; no features yet)
+* Coming soon (still in basic layout development; no features yet)
 
 #### Bug Fixes
 * Fixed menu bar options being rendered as the default link style
