@@ -17,6 +17,9 @@ body {
 .navoption:hover {
   background-color:grey
 }
+button:hover {
+  background-color:grey
+}
 select {
   cursor: pointer;
   outline: none;
