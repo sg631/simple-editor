@@ -4,6 +4,7 @@ html {
 }
 body {
   background-color: rgb(40, 40, 40);
+}
 .navoption {
   display: inline;
   margin: 20px;
@@ -38,4 +39,6 @@ button {
   outline: none;
   border-radius: 30px;
   user-select: none;
+  background-color:rgb(20, 20 ,20);
+  color:white;
 }
