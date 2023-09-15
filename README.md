@@ -8,7 +8,7 @@ This project was started for our Inovation Project for First Lego League robotic
 <b>Goal:</b> Create a music and programming editor that is not too basic, but isn't too technical either.
 
 # Documentation
-Refer to [DOCUMENTATION.md](docs/DOCUMENTATION.md) for any info
+Refer to [DOCUMENTATION.md](docs/DOCUMENTATION.md) for any documentation that you need to use this tool.
 
 # Changelog
 ### v0.1.0
