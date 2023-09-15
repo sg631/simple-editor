@@ -41,4 +41,6 @@ button {
   user-select: none;
   background-color:rgb(20, 20 ,20);
   color:white;
+  border: solid 5px;
+  font-size: 15px;
 }
