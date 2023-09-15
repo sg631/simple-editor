@@ -17,6 +17,16 @@ body {
 .navoption:hover {
   background-color:grey
 }
+select {
+  cursor: pointer;
+  outline: none;
+  border-radius: 30px;
+  user-select: none;
+  background-color:rgb(20, 20 ,20);
+  color:white;
+  border: solid 3px;
+  font-size: 30px;
+}
 .active_navoption:hover {
   background-color:grey
 }
