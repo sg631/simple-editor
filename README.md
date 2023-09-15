@@ -16,4 +16,4 @@ Refer to [DOCUMENTATION.md](docs/DOCUMENTATION.md) for any documentation that yo
 * Coming soon (still in basic layout development; no features yet)
 
 #### Bug Fixes
-* Fixed menu bar options being rendered as the default link style
+* its coming soon ok
