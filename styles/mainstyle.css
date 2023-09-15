@@ -33,3 +33,8 @@ body {
   height: 30px;
   display: block;
 }
+button {
+  cursor: pointer;
+  outline: none;
+  border-radius: 30px;
+  user-select: none;
